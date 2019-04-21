@@ -1,2 +1,2 @@
-# Diffusion-limited aggregation
-Projects on "Diffusion-limited aggregation"
+# Diffusion-limited Aggregation
+Projects on "Diffusion-limited Aggregation"
